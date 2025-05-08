@@ -1,2 +1,2 @@
 # PHP-crud-project
-we will build a CRUD (Create, Read, Update, Delete) application using PHP, MySQL, and Bootstrap 5. This guide is specially curated for curious students or beginners. It is perfect for those who want to get hands-on with PHP. You will build a basic yet functional web application.
+we will build a CRUD (Create, Read, Update, Delete) application using PHP, MySQL, and Bootstrap 5. This guide is specially curated for curious students or beginners. It is perfect for those who want to get hands-on with PHP. You will build a basic yet functional web application.for more information got to CodeXhui.com where  i am write full description about it or for open scource php crud application download...
